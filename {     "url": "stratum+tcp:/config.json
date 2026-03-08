@@ -1,0 +1,8 @@
+{
+    "url": "stratum+tcp://ap.luckpool.net:3956",
+    "user": "RWpYVWeLJ8BuYzRfLoxgHqX8cVQrP2XjPp.WORKER_NAME1",
+    "pass": "x",
+    "algo": "verus",
+    "intensity": 20,
+    "cpu": true
+}
